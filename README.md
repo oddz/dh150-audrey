@@ -12,11 +12,136 @@
 
 <table>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th>Rating</th>
+    <th>Analysis</th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>1</td>
+    <td>When the app starts up, it displays Notion's logo for as long as it takes to load the user's homepage. It would be more effective to display some kind of progress indicator, so that the user knows that the app is loading rather than frozen.</td>
+  </tr>
+</table>
+
+
+### #2. Match Between System & Real World
+
+<table>
+  <tr>
+    <th>Rating</th>
+    <th>Analysis</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>n</td>
+  </tr>
+</table>
+
+
+### #3. User Control & Freedom
+
+<table>
+  <tr>
+    <th>Rating</th>
+    <th>Analysis</th>
+  </tr>
+  <tr>
+    <td>n</td>
+    <td>n</td>
+  </tr>
+</table>
+
+
+### #4. Consistency & Standards
+
+<table>
+  <tr>
+    <th>Rating</th>
+    <th>Analysis</th>
+  </tr>
+  <tr>
+    <td>n</td>
+    <td>n</td>
+  </tr>
+</table>
+
+
+### #5. Error Prevention
+
+<table>
+  <tr>
+    <th>Rating</th>
+    <th>Analysis</th>
+  </tr>
+  <tr>
+    <td>n</td>
+    <td>n</td>
+  </tr>
+</table>
+
+
+### #6. Recognition Rather Than Recall
+<table>
+  <tr>
+    <th>Rating</th>
+    <th>Analysis</th>
+  </tr>
+  <tr>
+    <td>n</td>
+    <td>n</td>
+  </tr>
+</table>
+
+
+### #7. Flexibility & Efficiency of Use
+
+<table>
+  <tr>
+    <th>Rating</th>
+    <th>Analysis</th>
+  </tr>
+  <tr>
+    <td>n</td>
+    <td>n</td>
+  </tr>
+</table>
+
+
+### #8. Aesthetic &  Minimalist Design
+
+<table>
+  <tr>
+    <th>Rating</th>
+    <th>Analysis</th>
+  </tr>
+  <tr>
+    <td>n</td>
+    <td>n</td>
+  </tr>
+</table>
+
+
+### #9. Helps Users Recognize, Diagnose, and Recover From Errors
+
+<table>
+  <tr>
+    <th>Rating</th>
+    <th>Analysis</th>
+  </tr>
+  <tr>
+    <td>n</td>
+    <td>n</td>
+  </tr>
+</table>
+
+
+### #10. Help & Documentation
+
+<table>
+  <tr>
+    <th>Rating</th>
+    <th>Analysis</th>
+  </tr>
+  <tr>
+    <td>n</td>
+    <td>n</td>
   </tr>
 </table>
