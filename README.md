@@ -46,10 +46,6 @@
   <tr>
     <td>3</td>
     <td>There is no "undo" or "redo" option. If a new page or sub-page is accidentally created, users must return to the navigation menu to manually delete it.</td>
-    <tr>
-    <td>3</td>
-    <td>There is no confirmation for deleting a page. Regardless of how much information the page contains, once a user presses delete, the page will dissapear without asking the user if they are sure with their decision.</td>
-  </tr>
 </table>
 
 
@@ -61,8 +57,8 @@
     <th>Analysis</th>
   </tr>
   <tr>
-    <td>n</td>
-    <td>n</td>
+    <td>1</td>
+    <td>The search button is located on the bottom left rather than the top right, as is consistent within most apps.</td>
   </tr>
 </table>
 
@@ -74,9 +70,9 @@
     <th>Rating</th>
     <th>Analysis</th>
   </tr>
-  <tr>
-    <td>n</td>
-    <td>n</td>
+   <tr>
+    <td>3</td>
+    <td>There is no confirmation for deleting a page. Regardless of how much information the page contains, once a user presses delete, the page will dissapear without asking the user if they are sure with their decision.</td>
   </tr>
 </table>
 
@@ -88,8 +84,8 @@
     <th>Analysis</th>
   </tr>
   <tr>
-    <td>n</td>
-    <td>n</td>
+    <td>1</td>
+    <td>The search button is located on the bottom left rather than the top right, as  </td>
   </tr>
 </table>
 
@@ -102,7 +98,7 @@
     <th>Analysis</th>
   </tr>
   <tr>
-    <td>n</td>
+    <td>3</td>
     <td>n</td>
   </tr>
 </table>
@@ -144,7 +140,7 @@
     <th>Analysis</th>
   </tr>
   <tr>
-    <td>n</td>
-    <td>n</td>
+    <td>3</td>
+    <td>There is no help center linked directly within the app. In order to access the help center, users must go onto the Notion webpage to search for answers. It would be more effective to have the help center linked directly within the app so that users don't have to move to an external link for their inquiries.</td>
   </tr>
 </table>
