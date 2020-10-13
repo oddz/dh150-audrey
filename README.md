@@ -2,7 +2,7 @@
 
 ## Task-Tracking Tools
 
-##### As students with packed schedules, task-tracking tools are essential to maintaining order in our everyday lives. I am constantly on the lookout for new applications and programs to try out, especially ones that can replicate the feeling of jotting notes down in a planner. 
+#### As students with packed schedules, task-tracking tools are essential to maintaining order in our everyday lives. I am constantly on the lookout for new applications and programs to try out, especially ones that can replicate the feeling of jotting notes down in a planner. 
 
 ----
 
