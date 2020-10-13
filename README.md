@@ -44,8 +44,11 @@
     <th>Analysis</th>
   </tr>
   <tr>
-    <td>n</td>
-    <td>n</td>
+    <td>3</td>
+    <td>There is no "undo" or "redo" option. If a new page or sub-page is accidentally created, users must return to the navigation menu to manually delete it.</td>
+    <tr>
+    <td>3</td>
+    <td>There is no confirmation for deleting a page. Regardless of how much information the page contains, once a user presses delete, the page will dissapear without asking the user if they are sure with their decision.</td>
   </tr>
 </table>
 
