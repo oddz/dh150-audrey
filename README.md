@@ -2,11 +2,17 @@
 
 ## Task-Tracking Tools
 
-#### As students with packed schedules, task-tracking tools are essential to maintaining order in our everyday lives. I am constantly on the lookout for new applications and programs to try out, especially ones that can replicate the feeling of jotting notes down in a planner. 
+#### Task-tracking tools are essential to maintaining order in our everyday lives. With the rise of new technologies, it is no longer feasible to painstakingly record your ever-changing schedule with pen and paper. I am constantly on the lookout for new applications and programs to try out, especially ones that can replicate the feeling of jotting notes down in a planner. I have chosen to focus on two apps in particular, Notion and Todoist. By improving the UX Design, both programs can become more efficient in aiding users to reach their goals. 
 
 ----
 
 ## Heuristic Evaluation of App - Notion
+
+https://www.notion.so/
+
+Notion is a versatile program that provides a workspace for recording and tracking notes, tasks, databases, and more. It provides a skeleton for users to create and customize their own pages, with simple drag and drop movements and the ability to add images, website urls, and codes! The program has both desktop and mobile applications, though I will be focusing on the mobile application. 
+
+Though the website offers quite a bit of assistance and guidance, the mobile app does not live up to the same standards. First time users would be easily overwhelmed by the huge variety of functions and customization tools, since there is a lack of a direct help center. The mobile app seems to designed exactly like the desktop one, which is inefficient considering the platform's differences. The abscence of a button that switches on editing mode also proves confusing, as tapping anywhere on the page automatically brings users into editing. 
 
 ### #1. Visibility of System Status 
 
@@ -168,6 +174,12 @@
 ----
 
 ## Heuristic Evaluation of App - Todoist
+
+https://todoist.com/app/
+
+Todoist is provides a space for everyday tracking of tasks, deadlines, reminders, and due dates. Users are able to create seperate "projects" and categories for their tasks, and even assign "priorities" and "filters" to each one for maximum organization. for recording and tracking notes, tasks, databases, and more. The program also has both desktop and mobile applications, and again, I will be focusing on the mobile application. 
+
+The application is quite simple and intuitive, making it easy for first-time users to integrate. However, the lack of a calendar function makes task visualization  difficult. With the rather small amount of features, a task-tracking application like Todoist should allow users to see their due dates laid out on the screen, rather than through a variety of filters.
 
 ### #1. Visibility of System Status 
 
