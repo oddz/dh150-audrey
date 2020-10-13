@@ -14,6 +14,8 @@ Notion is a versatile program that provides a workspace for recording and tracki
 
 Though the website offers quite a bit of assistance and guidance, the mobile app does not live up to the same standards. First time users would be easily overwhelmed by the huge variety of functions and customization tools, since there is a lack of a direct help center. The mobile app seems to designed exactly like the desktop one, which is inefficient considering the platform's differences. The abscence of a button that switches on editing mode also proves confusing, as tapping anywhere on the page automatically brings users into editing. 
 
+<img src="https://user-images.githubusercontent.com/57603794/95921817-d49fcd80-0d66-11eb-8c14-48398f439118.PNG" alt="Notion Screenshot">
+
 ### #1. Visibility of System Status 
 
 <table>
@@ -180,6 +182,8 @@ https://todoist.com/app/
 Todoist is provides a space for everyday tracking of tasks, deadlines, reminders, and due dates. Users are able to create seperate "projects" and categories for their tasks, and even assign "priorities" and "filters" to each one for maximum organization. for recording and tracking notes, tasks, databases, and more. The program also has both desktop and mobile applications, and again, I will be focusing on the mobile application. 
 
 The application is quite simple and intuitive, making it easy for first-time users to integrate. However, the lack of a calendar function makes task visualization  difficult. With the rather small amount of features, a task-tracking application like Todoist should allow users to see their due dates laid out on the screen, rather than through a variety of filters.
+
+<img src="https://user-images.githubusercontent.com/57603794/95921867-ef724200-0d66-11eb-9288-271948ff4307.PNG" alt="Todoist Screenshot">
 
 ### #1. Visibility of System Status 
 
