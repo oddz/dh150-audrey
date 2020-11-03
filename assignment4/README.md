@@ -15,16 +15,18 @@ For my research methods, I decided to use participatory observation and intervie
 
 ## Conducting The Research
 
-FI
+### Contextual Inquiry Guide 
 
-## Data
+Find the contextual inquiry guide script <a href="https://docs.google.com/document/d/1PQvMmLDPXl7mL1qxZ7yeR4iyuCiYsgAKVUOfxcjuO7s/edit?usp=sharing">here</a>.
 
-blah
+### Interview File
 
-## Interview Insights
+Find the interivew file <a href="https://drive.google.com/drive/folders/1dFMHDYp-dEYakn9bdKnC3H1b4FNRF7aQ?usp=sharing">here</a>.
 
-## blah
+### Interview Transcript
+
+Find the interivew transcript <a href="https://docs.google.com/document/d/1vSZySf2hZeimDntpJDeQR8mwSLeC3uMNL8PJLqzhXOg/edit?usp=sharing">here</a>.
 
 ## Reflection
 
-blah
+
