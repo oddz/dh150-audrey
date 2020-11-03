@@ -6,7 +6,7 @@
 It would support users in successfully tracking deadlines and information. It would provide a consolidated space to record everything within their daily lives, including events, assignments, lists, and so forth.
 
 #### What is the basic need involved for that activity?
-A clean and conlidated task-tracking & information recording system would allow users to stay organized in every aspect, and ensure that all their responsibilities are fulfilled on time. In addition, being able to check off tasks give users a feeling of accomplishment and aloows them to feel productive. 
+A clean and conlidated task-tracking & information recording system would allow users to stay organized in every aspect, and ensure that all their responsibilities are fulfilled on time. In addition, being able to check off tasks give users a feeling of accomplishment and allows them to feel productive. 
 
 #### What are the traditional/current solution(s) to satisfy the needs?
 In terms of physical methods, planners are commonly utilized for task-tracking, event recording, and general list-making. There are also several similarly functioning applications out on the digital market, though they all seem to serve different purposes rather than offering one consolidated option.
@@ -31,7 +31,7 @@ With digital technology, users are allowed easy access. They would be able to vi
 Users can add tasks, events, or other information onto their chosen platform basically anywhere. With a physical method, they can do so as long as they have some sort of paper and writing utensil on hand. With a digital method, users can simply log onto their device and add or remove information wherever they'd like. 
 
 #### What would the users do to complete that activity?
-In order to add information onto their chosen platofmr, users would either have to physically record information, or enter it into some sort of application  to eventually check it off. 
+In order to add information onto their chosen platform, users would either have to physically record information, or enter it into some sort of application  to eventually check it off. 
 
 ## Research Methods 
 
@@ -57,4 +57,4 @@ Find the interivew transcript <a href="https://docs.google.com/document/d/1vSZyS
 
 ## Reflection
 
-This activity was fun to conduct! It felt more like a genuine conversation than anything else, since it asked for the user's personal opinions and habits, as opposed to asking about their opinion on an application. However, since it was so conversation-like, it was easy to get off track. I found myself asking questions that weren't necessarily listed on the script, just to delve deeper into the participant's thought process. It took conscious effort to steer back to the original question. In addition, my participant's responses often answered multiple questions, so I had to jump abruptly to the next section several times. One thing that surprised me was that that she mentioned - unprompted - the app that I analyzed for assignmnent one's heuristic evaluation! She mentioned that she did not like it, and ended up pointing out several flaws with the product that matched up with some of the faults that I initially listed. It was an interesting & insightful coincidence. Next time, I will be sure to map out questions for every scenario, to ensure that I don't stray off track from the main topic. I will also be sure to make more of an effort to foster natural conversation with the participant.
+This activity was fun to conduct! It felt more like a genuine conversation than anything else, since it asked for the user's personal opinions and habits, as opposed to asking about their opinion on an application. However, since it was so conversation-like, it was easy to get off track. I found myself asking questions that weren't necessarily listed on the script, just to delve deeper into the participant's thought process. It took conscious effort to steer back to the original question. In addition, my participant's responses often answered multiple questions, so I had to jump abruptly to the next section several times. One thing that surprised me was that she mentioned - unprompted - the app that I analyzed for assignmnent one's heuristic evaluation! She mentioned that she did not like it, and ended up pointing out several flaws with the product that matched up with some of the faults that I agreed with, and had initially listed. It was an interesting & insightful coincidence. Next time, I will be sure to map out questions for every scenario, to ensure that I don't stray off track from the main topic. I will also be sure to make more of an effort to foster natural conversation with the participant when steering back to the questions.
