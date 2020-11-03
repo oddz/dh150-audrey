@@ -35,8 +35,11 @@ In order to add information onto their chosen platofmr, users would either have 
 
 ## Research Methods 
 
-For my research methods, I decided to use participatory observation and interview.
+For my research methods, I decided to use an interview and participatory observation.
 
+The interview was conducted in the user's home. I used Zoom to record the session. Since task-tracking and information recording occurs virtually anywhere, the user had no problems in terms of accessing her normal tools during the participatory observation section.
+
+For participatory observation, I asked the user to input a new entry onto one of her task lists for the task-tracking application that she currently uses, which is Google Sheets. In order to give the most authenic view, the participant shared her own screen and gave a virtual tour through the sheet before adding an entry, talking through each category as she did so.
 
 ## Conducting The Research
 
