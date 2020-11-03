@@ -16,7 +16,22 @@ With digital technology, users are allowed easy access. They would be able to vi
 
 ## Target Users
 
+#### What are the characteristics of users?
+##### Demographics
+* Students (High-School, College, Graduate)
+* Working adults 
+* Stay-at-home parents 
+##### Preferences
+* Organized or enjoys staying organized
+* Follows some sort of schedule
+##### Expertise
+* No sort of expertise needed
 
+#### Where would the users do that activity?
+Users can add tasks, events, or other information onto their chosen platform basically anywhere. With a physical method, they can do so as long as they have some sort of paper and writing utensil on hand. With a digital method, users can simply log onto their device and add or remove information wherever they'd like. 
+
+#### What would the users do to complete that activity?
+In order to add information onto their chosen platofmr, users would either have to physically record information, or enter it into some sort of application  to eventually check it off. 
 
 ## Research Methods 
 
