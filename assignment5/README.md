@@ -2,7 +2,7 @@
 
 ## Purpose of UX Storytelling
 
-UX storytelling allows researchers and designers to understand users past surface-level ideation. By crafting  personas, they are able to better understand user motivation, behavior, and action. In addition, they are able to more thoroughly explore the reasons behind why a user would choose to utilize a certain product, allowing them garner insights that could ultimately improve the final product and set it apart in the market.  
+UX storytelling allows researchers and designers to understand users past surface-level ideation. By crafting  personas, they are able to better understand user motivation, behavior, and action. In addition, they are able to more thoroughly explore the reasons behind why a user would choose to utilize a certain product, allowing them to garner insights that could ultimately improve the final product and set it apart in the market.  
 
 ## Persona & Empathy Map
 
