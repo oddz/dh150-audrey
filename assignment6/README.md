@@ -13,7 +13,7 @@
 
 ## Wireframes & Wireflows
 
-<img src="https://github.com/oddz/dh150-audrey/issues/1#issuecomment-729268685" alt="Wireframe & Wireflow">
+<img src="https://user-images.githubusercontent.com/57603794/99461476-c0f80180-28e6-11eb-8769-a5dfef35db0d.jpg" alt="Wireframe & Wireflow">
 
 ## Prototype Testing
 
