@@ -20,7 +20,9 @@ I chose some common tasks that would exercise some of the main features of the a
 
 ## Wireframes & Wireflows
 
-The prototype was designed in order to make the application as easy to understand and utilize as possible. On the homepage (the first frame), users can view all their current and upcoming tasks, providing easy access to check off completed work. Three options are offered in the top navigation bar in the form of a pencil icon, a book icon, and a calendar icon: create a task, make a list, and view calendar, respectively. If the pencil is tapped, a window appears to allow users to input all needed information to add a new task. If the book is tapped, a window appears to allow users to input all needed information to create a new list. 
+The prototype was designed in order to make the application as easy to understand and utilize as possible. On the homepage, users can view all their current and upcoming tasks, providing easy access to check off completed work. Three options are offered in the top navigation bar in the form of a pencil icon, a book icon, and a calendar icon: create a task, make a list, and view calendar, respectively. 
+
+If the pencil is tapped, a window appears to allow users to input all the needed information to add a new task. If the book is tapped, a window appears to allow users to input all the needed information to create a new list. If the calendar is tapped, the users are brought to a view of all their previously inputted tasks in a calendar form. Users can also place all their tasks and lists into specific categories, so that all entries can be kept organized on the main task & list pages. 
 
 <img src="https://user-images.githubusercontent.com/57603794/99461476-c0f80180-28e6-11eb-8769-a5dfef35db0d.jpg" alt="Wireframe & Wireflow">
 
