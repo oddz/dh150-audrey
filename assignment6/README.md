@@ -13,6 +13,10 @@
 
 ## Wireframes & Wireflows
 
+<img src="https://github.com/oddz/dh150-audrey/issues/1#issuecomment-729268685" alt="Wireframe & Wireflow">
+
+## Prototype Testing
+
 The testing screen-recordings are located <a href="https://drive.google.com/drive/folders/1o0hT2pt_vtErtl1khGPjDAzT-88OPs45?usp=sharing">here</a>.
 
 ## Reflection
