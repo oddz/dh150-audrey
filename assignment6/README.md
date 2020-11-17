@@ -2,16 +2,25 @@
 
 ## Project Description
 
+This project seeks to alleviate some of the stress of everyday life by providing a space for users to track all their responsibilites and accompanying tasks. With the decades-old rise of technology, it is no longer feasible to record to-dos with pen and paper. A virtual platform would remove the the need to manually record and roll-over tasks, provide a space for for all events to be consolidated, and  ensure that users always have access to the information they need. 
 
-## Tasks 
+The target community would be those who have too much on their plate to keep track of mentally - such as students and working adults. Expected users also value organization, and enjoy the feeling of productivity that comes along with checking a task off of a to-do list. 
 
-1) Inputting a homework assignment  
+The purpose of this low-fidelity prototype is to test how well the current system flows from a user's perspective, so that changes can be made in order increase the usability of the product. 
 
-2) Creating a grocery list 
+### Tasks 
 
-3) Viewing tasks in calendar format
+I chose some common tasks that would exercise some of the main features of the application: adding a tasks, making a list, and utilizing a calendar.
+
+1) Input a homework assignment
+
+2) Create a grocery list
+
+3) Check off a task in calendar view 
 
 ## Wireframes & Wireflows
+
+The prototype was designed in order to make the application as easy to understand and utilize as possible. On the homepage (the first frame), users can view all their current and upcoming tasks, providing easy access to check off completed work. Three options are offered in the top navigation bar in the form of a pencil icon, a book icon, and a calendar icon: create a task, make a list, and view calendar, respectively. If the pencil is tapped, a window appears to allow users to input all needed information to add a new task. If the book is tapped, a window appears to allow users to input all needed information to create a new list. 
 
 <img src="https://user-images.githubusercontent.com/57603794/99461476-c0f80180-28e6-11eb-8769-a5dfef35db0d.jpg" alt="Wireframe & Wireflow">
 
