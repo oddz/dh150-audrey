@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project seeks to alleviate some of the stress of everyday life by providing a space for users to track all their responsibilites and accompanying tasks. With the decades-old rise of technology, it is no longer feasible to record to-dos with pen and paper. A virtual platform would remove the the need to manually record and roll-over tasks, provide a space for for all events to be consolidated, and  ensure that users always have access to the information they need. 
+This project seeks to alleviate some of the stress of everyday life by providing a space for users to track all their responsibilites and accompanying tasks. With the decades-old rise of technology, it is no longer feasible to record to-dos with pen and paper. A virtual platform would remove the need to manually record and roll-over tasks, provide a space for all events to be consolidated, and  ensure that users always have access to the information they need. 
 
 The target community would be those who have too much on their plate to keep track of mentally - such as students and working adults. Expected users also value organization, and enjoy the feeling of productivity that comes along with checking a task off of a to-do list. 
 
@@ -10,7 +10,7 @@ The purpose of this low-fidelity prototype is to test how well the current syste
 
 ### Tasks 
 
-I chose some common tasks that would exercise some of the main features of the application: adding a tasks, making a list, and utilizing a calendar.
+I chose some common tasks that would exercise some of the main features of the application: adding a task, making a list, and utilizing the calendar.
 
 1) Input a homework assignment
 
