@@ -30,4 +30,8 @@ If the pencil is tapped, a window appears to allow users to input all the needed
 
 The testing screen-recordings are located <a href="https://drive.google.com/drive/folders/1o0hT2pt_vtErtl1khGPjDAzT-88OPs45?usp=sharing">here</a>.
 
+<img src="https://user-images.githubusercontent.com/57603794/99464364-ce17ef00-28ec-11eb-9184-1b0c9a5155b3.jpg" alt="Prototype Testing Wireflow">
+
 ## Reflection
+
+Overall, the process was not terrible. Though the user missed several steps that was included in the prototype, she still reached the intended end screen for every tasks. The skipping of steps may be attributed to my own shortcomings in terms of explaining the task and goal clearly. There were also several areas that seemed to confuse the user, such as the book icon, which I would seek to correct in my next iteration of the prototype.
