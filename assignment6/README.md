@@ -38,7 +38,7 @@ This interaction went a bit differently than expected. The user choose the corre
 
 ### Task 2: Creating List
 
-This interaction also went a bit differently than expected. In the prototype, there are several pathways to creating a list - users can create a new task and add a new list through the "attachments" menu, or they can create a new list directly by tapping the book icon in the top navigation bar. The user began by clicking the new task icon, but was able to add a list the way the system intends. Rather than clicking "add attachment", the user inputted the list directly into the description box of the task.
+This interaction also went a bit differently than expected. In the prototype, there are several pathways to creating a list - users can create a new task and add a new list through the "attachments" menu, or they can create a new list directly by tapping the book icon in the top navigation bar. The user began by clicking the new task icon, but was able to add a list the way the system intends. Rather than clicking "add attachment", the user inputted the list directly into the description box of the new task.
 
 ### Task 3: Utilizing Calendar
 
@@ -46,4 +46,8 @@ This interaction was quick, and went as expected. The user was able to quickly i
 
 ## Reflection
 
-Overall, the process was not terrible. Though the user missed several steps that was included in the prototype, she still reached the intended end screen for every tasks. The skipping of steps may be attributed to my own shortcomings in terms of explaining the task and goal clearly. There were also several areas that seemed to confuse the user, such as the book icon, which I would seek to correct in my next iteration of the prototype.
+Overall, the process was not terrible. Though the user missed several steps that was included in the prototype, she still reached the intended end screen for every tasks. The skipping of steps may also be attributed to my own shortcomings in terms of explaining the task and goal clearly. 
+
+There were several areas that seemed to confuse the user, which I would seek to correct in my next iteration of the prototype.
+
+For the first feature - creating tasks - I would minimize confusion over entering a "category" by making it a more prominent part of the new-task menu. The way that it is formatted currently may be easily missed by users, which would lead to a cluttered homepage. For the second feature - creating list - I would replace the current "new list" icon with something more intuitive, so that users would find it easier to identify the option. I would also consider making a list option an inherent part of the task "description" box, so that it is more integrrated.
