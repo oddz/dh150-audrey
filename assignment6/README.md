@@ -32,6 +32,18 @@ The testing screen-recordings are located <a href="https://drive.google.com/driv
 
 <img src="https://user-images.githubusercontent.com/57603794/99464364-ce17ef00-28ec-11eb-9184-1b0c9a5155b3.jpg" alt="Prototype Testing Wireflow">
 
+### Task 1: Inputting Assignment
+
+This interaction went a bit differently than expected. The user choose the correct icon, the pencil in the top left corner, and was led to the menu to create a new task. However, when she was told to add the tasks into a category ("homework"), she was confused on how to do so. After being led to tap the "category" option, the user was able to successful input the category and exit the window by tapping "done". 
+
+### Task 2: Creating List
+
+This interaction also went a bit differently than expected. In the prototype, there are several pathways to creating a list - users can create a new task and add a new list through the "attachments" menu, or they can create a new list directly by tapping the book icon in the top navigation bar. The user began by clicking the new task icon, but was able to add a list the way the system intends. Rather than clicking "add attachment", the user inputted the list directly into the description box of the task.
+
+### Task 3: Utilizing Calendar
+
+This interaction was quick, and went as expected. The user was able to quickly identify the calendar icon in the top right corner and navigate successfully to the calendar view of all inputted tasks.
+
 ## Reflection
 
 Overall, the process was not terrible. Though the user missed several steps that was included in the prototype, she still reached the intended end screen for every tasks. The skipping of steps may be attributed to my own shortcomings in terms of explaining the task and goal clearly. There were also several areas that seemed to confuse the user, such as the book icon, which I would seek to correct in my next iteration of the prototype.
