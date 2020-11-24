@@ -14,6 +14,8 @@ Find the Figma preview <a href="https://www.figma.com/file/ym7veaY6qmUCSpFVIXEYs
 
 ### Design Description
 
+For the graphical interface design, I strove to keep it as simple and succinct as possible. I want to keep the learning curve small and avoid overloading users with information, especially since users would likely experience enough stress merely by looking at their upcoming tasks. On this same note, I choose to utilize neutral colors due to its calming effects. I drew inspiration from past applications I have enjoyed using, and kept the screen design minimal and modern. 
+
 #### Color
 
 Initially, I was shooting for a much lighter overall theme, but the colors that I originally choose did not pass the accessibility test. I chose to keep the background color that I wanted (#FBF5E3), and changed up the text color until I found one that I believed fit the aesthetics and theme (#75694A). This combination yielded a 4:97:1 contrast ratio. I also interspersed another neutral color (#8D712A) with white in order to provide some variety. This combination yielded a 4:63:1 contrast ratio. 
