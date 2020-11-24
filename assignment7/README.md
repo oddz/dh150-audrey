@@ -8,14 +8,10 @@ First, I put together the screens on Figma based off of my low-fidelity sketches
 
 ## Prototype Design 
 
+<img src="https://github.com/oddz/dh150-audrey/issues/1#issuecomment-733284285" alt="Preliminary Prototype Designs">
+
 Find the Figma preview <a href="https://www.figma.com/file/ym7veaY6qmUCSpFVIXEYsY/DH150?node-id=0%3A1">here.</a>
 
-### Screen Design Description
+### Design Description
 
-### Accessibility
-
-## Impression Test
-
-Find the raw recording <a href="https://drive.google.com/drive/folders/16kTZJIldkwNZ_EQ14Qh65ffyHYKi2D1f?usp=sharing">here.</a>
-
-## Reflection
+#### Color Scheme
