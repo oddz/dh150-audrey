@@ -14,4 +14,12 @@ Find the Figma preview <a href="https://www.figma.com/file/ym7veaY6qmUCSpFVIXEYs
 
 ### Design Description
 
+#### Color
+
+Initially, I was shooting for a much lighter overall theme, but the colors that I originally choose did not pass the accessibility test. I chose to keep the background color that I wanted (#FBF5E3), and changed up the text color until I found one that I believed fit the aesthetics and theme (#75694A). This combination yielded a 4:97:1 contrast ratio. I also interspersed another neutral color (#8D712A) with white in order to provide some variety. This combination yielded a 4:63:1 contrast ratio. 
+
+<img src="https://user-images.githubusercontent.com/57603794/100162976-8dc6ec80-2e69-11eb-84ad-17d03ed5d237.png" alt="Accessibility 1">
+
+<img src="https://user-images.githubusercontent.com/57603794/100162986-928ba080-2e69-11eb-92d3-6aaa08962972.png" alt="Accessibility 2">
+
 #### Color Scheme
