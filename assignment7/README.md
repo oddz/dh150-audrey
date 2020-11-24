@@ -6,13 +6,9 @@ This project aims to provide a space for busybodies and perfectionists to keep t
 
 First, I put together the screens on Figma based off of my low-fidelity sketches and the feedback I received on them. Then, I had a user navigate through the system, so that I could gain additional feedback. The purpose of this prototyping phase is to evaluate the functionality and usefulness of the designs. This phase is extremely useful, as it provides a way to test out a tangible system, and corrections can be made directly to the design based off of the feedback.  
 
-### System Tasks
+## Prototype Design 
 
-1. 
-2.
-3.
-
-## Screen Designs
+Find the Figma preview <a href="https://www.figma.com/file/ym7veaY6qmUCSpFVIXEYsY/DH150?node-id=0%3A1">here.</a>
 
 ### Screen Design Description
 
