@@ -8,7 +8,7 @@ First, I put together the screens on Figma based off of my low-fidelity sketches
 
 ## Prototype Design 
 
-<img src="https://github.com/oddz/dh150-audrey/issues/1#issuecomment-733284285" alt="Preliminary Prototype Designs">
+<img src="https://user-images.githubusercontent.com/57603794/100161635-b0a3d180-2e66-11eb-8709-77351543c459.png" alt="Persona 1">
 
 Find the Figma preview <a href="https://www.figma.com/file/ym7veaY6qmUCSpFVIXEYsY/DH150?node-id=0%3A1">here.</a>
 
