@@ -34,4 +34,4 @@ Initially, I was shooting for a much lighter overall theme, but the colors that 
 
 I reached out to a friend in order to get their first impression & feedback on the initial prototype. I was surprised when he compared it to the notes application (which is pre-installed into Apple products), but after some thought, I can see the similarities in design. In the next iteration, I will make some changes - likely in color and formatting - so that there are minimal similarities. The user also pointed out some elements that he would like to see implemented, such as adding a time function to the new task entry page and remaking the calendar view, which I will definitely keep in mind when I am arranging the next set of screens. 
 
-Find the impression testing raw footage <a href="https://drive.google.com/drive/folders/16kTZJIldkwNZ_EQ14Qh65ffyHYKi2D1f?usp=sharing">here.</a>.
+Find the impression testing raw footage <a href="https://drive.google.com/drive/folders/16kTZJIldkwNZ_EQ14Qh65ffyHYKi2D1f?usp=sharing">here.</a>
