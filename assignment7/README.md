@@ -4,9 +4,9 @@
 
 This project aims to provide a space for busybodies and perfectionists to keep track of their ongoing tasks, responsibilities, and interests. Hopefully, it would provide an easy alternative to inconvenient planners and complicated applications. 
 
-The purpose of this prototyping phase is to evaluate the functionality and usefulness of the designs. This phase is extremely useful, as it provides a way to visualize test out a tangible system, and corrections can be made directly to the design based off of the feedback. I aim to get a better sense of what users liked & what they struggled with, in order to improve the final product and provide the most intuitive design. I designed this prototype with Figma, making use of previous feedback I received on my low-fidelity prototype. 
+The purpose of this prototyping phase is to evaluate the functionality of the designs. This phase is extremely useful, as it provides a way to visualize and test out a tangible system, and corrections can be made directly to the design based off of the feedback. I aim to get a better sense of what users liked & what they struggled with, in order to improve the final product and provide the most intuitive design possible. I designed this prototype with Figma, making use of previous feedback I received on my low-fidelity prototype. 
 
-The current screens displays the designs that users see when they: 
+The current screens display the designs that users see when they: 
 
 - View their upcoming tasks 
 - Add a new task entry
@@ -32,6 +32,6 @@ Initially, I was shooting for a much lighter overall theme, but the colors that 
 
 ## Feedback
 
-I reached out to a friend in order to get their first impression & feedback on the initial prototype. I was surprised when he compared it to the notes application (which is pre-installed into Apple products), but after some thought, I can see the similarities in design. In the next iteration, I will make some changes - likely in color and formatting - so that there are minimal similarities. The user also pointed out some elements that he would like to see implemented, such as adding a time function to the new task entry page and remaking the calendar view, which I will definetely keep in mind when I am arranging the next set of screens. 
+I reached out to a friend in order to get their first impression & feedback on the initial prototype. I was surprised when he compared it to the notes application (which is pre-installed into Apple products), but after some thought, I can see the similarities in design. In the next iteration, I will make some changes - likely in color and formatting - so that there are minimal similarities. The user also pointed out some elements that he would like to see implemented, such as adding a time function to the new task entry page and remaking the calendar view, which I will definitely keep in mind when I am arranging the next set of screens. 
 
 Find the impression testing raw footage <a href="https://drive.google.com/drive/folders/16kTZJIldkwNZ_EQ14Qh65ffyHYKi2D1f?usp=sharing">here.</a>.
