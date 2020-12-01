@@ -1,4 +1,4 @@
-# DH150 Assignment 7: High Fidelity Prototype by Audrey Yao
+# DH150 Assignment 8: High Fidelity Prototype by Audrey Yao
 
 ## Project Description 
 
