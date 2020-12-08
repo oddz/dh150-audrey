@@ -27,15 +27,29 @@ For my user research, I chose to utilize participatory observation and interview
 
 Read more on my user research [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment4)
 
-### personas & scenarios
+### user personas 
+
+In order to dwelve deeper into user perspective, I developed several user personas and scenarios. This is crucial in the process of understanding users past surface-level, as it allows us to get a glimpse of their motivations, behavior, and actions. By shifting our perspective into that of a user's, we can also attempt to understand the reasoning behind why they may choose a certain program or desire certain features, allowing us to garner more insights to improve the product.
+
+Drawing from my user research, I crafted several personas who would benefit from a digital task-tracking application. I sought to include different backgrounds in order to demonstrate different needs and goals, so that the personas would inform a universally beneficial application. 
 
 Read more on my personas [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment5)
 
-### wireframe
+### wireframe & graphic design 
 
-View my first wireframes [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment6)
+Based on all my user research and evaluations, I ideated three essential features for the application. 
+
+1. A "new task" button, which would allow users to jot down new tasks and seperate them into specific categories. 
+2. A "new list" button, which would allow users to itemize information.
+3. A "calendar" button, which would allow users to view their tasks and events in a calendar format. 
+
+While sketching out the wireframes, I focused on keeping the design simple and easy to understand. I wanted it to be accessible to everyone regardless of technological expertise, yet still pleasant to look at and fun to use. 
+
+View my rough sketch wireframes [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment6)
 
 ### low-fidelity prototype
+
+Drawing from these essential features, I sketched out screen designs and user flows. This step is essential, as ideas can finally be translated into a roughly organized and much more tangible format. I sought to ensure that all the different screens ha
 
 Read more on my low-fidelity prototyping [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment6)
 
@@ -50,6 +64,15 @@ EMBED HERE
 ### final prototype 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fym7veaY6qmUCSpFVIXEYsY%2FDH150%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
