@@ -9,29 +9,37 @@ Currently, few task-tracking tools available on the market provide efficiency, e
 
 ### competitor analysis
 
-To get a more holistic view of task-trackers, I conducted heuristic evaluations on two digital applications: Notion and Todoist. I chose these programs because they are quite popular and often reccommended, but also because I have personal experience using - and ultimately abandoning - them. By evaluating them through utilizing the ten usability heuristics, I hoped to narrow down exactly what the two applications are lacking. This way, I could dive into finding solutions for these issues in the application I was creating. 
+To get a more holistic view of task-trackers, I conducted heuristic evaluations on two digital applications: Notion and Todoist. I chose these programs because they are quite popular and often reccommended, but also because I have personal experience using - and ultimately abandoning - them. By evaluating the two through utilization of the ten usability heuristics, I hoped to narrow down exactly what the applications are lacking. This way, I could dive into finding solutions for these issues and avoid possible problems in the application I was creating. 
 
-From evaluating the two applications, I was able to zero in on some of the issues that had previously led me to personally abandon use. This included overly complication design as well as a lack of important features such as calendar viewing and the ability to transfer & consolidation information across other applications. The evaluation aided me in ideating features for my own design, and reminded me to prize simplicity and ease of use. 
+From evaluating the two applications, I was able to zero in on some of the issues that had previously led me to personally abandon use. This included overly complicated designs as well as a lack of important features, such as calendar viewing and the ability to transfer & consolidate information across other applications. The evaluation aided me in ideating features for my own design, and reminded me to prize simplicity and ease of use. 
 
-Read more on my heuristic evaluations and competitor analysis [here](https://github.com/oddz/dh150-audrey/blob/main/README.md)
+Read more on my competitor analysis and heuristic evaluations [here.](https://github.com/oddz/dh150-audrey/blob/main/README.md)
 
 ### user research
 
-Read more on my competitor analysis [here](url)
+Guided by insights 
+
+Read more on my user research and watch my contextual inquiry - with two participants - [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment4)
 
 ### personas & scenarios
 
-Read more on my competitor analysis [here](url)
+Read more on my personas [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment5)
 
 ### wireframe
 
-Read more on my competitor analysis [here](url)
+View my first wireframes [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment6)
 
 ### low-fidelity prototype
 
-### high-fidelity prototyp 
+Read more on my low-fidelity prototyping [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment6)
+
+### high-fidelity prototype
+
+Read more on my high-fidelity prototyping [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment7)
 
 ### pitch video
+
+EMBED HERE
 
 ### final prototype 
 
