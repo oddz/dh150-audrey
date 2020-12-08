@@ -3,7 +3,13 @@
 
 ### design statement
 
+Organization is an essential skill needed to maintain order in life, for everything from tracking mundane daily tasks like grocery shopping, to jotting down assignments, to recording your favorite movies. This neccessity can be aided by task-tracking tools, like planners and digital applications. And with the rise of new and ever-changing technologies, it is no longer required to painstakingly record schedules and task lists with pen and paper. Digital applications makes task-tracking easy, convenient, and satisfying. 
+
+Currently, few task-tracking tools available on the market provide efficiency, ease-of-use, and consolidation across multiple applications. I seek to remedy this problem, and to design an ideal application that I could see everyone - from overscheduled students to busy moms - using. The goal of this project is to create an application that would fill in these gaps, and provide a simple and effective outlet for the universal need of task-tracking. 
+
 ### competitor analysis
+
+
 
 ### user research
 
