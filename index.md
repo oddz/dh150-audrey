@@ -1,4 +1,4 @@
-# note-ist
+# NOTEIST
 ## by audrey yao
 
 ### design statement
