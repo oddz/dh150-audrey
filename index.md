@@ -3,13 +3,15 @@
 
 ### design statement
 
-Organization is an essential skill needed to maintain order in life, for everything from tracking mundane daily tasks like grocery shopping, to jotting down assignments, to recording your favorite movies. This neccessity can be aided by task-tracking tools, like planners and digital applications. And with the rise of new and ever-changing technologies, it is no longer required to painstakingly record schedules and task lists with pen and paper. Digital applications makes task-tracking easy, convenient, and satisfying. 
+Organization is an essential skill needed to maintain order in life, for everything from tracking mundane daily tasks like grocery shopping, to jotting down assignments, to recording your favorite movies. This necessity can be aided by task-tracking tools, like planners and digital applications. And with the rise of new and ever-changing technologies, it is no longer required to painstakingly record schedules and task lists with pen and paper. Digital applications make task-tracking easy, convenient, and satisfying. 
 
-Currently, few task-tracking tools available on the market provide efficiency, ease-of-use, and consolidation across multiple applications. I seek to remedy this problem, and to design an ideal application that I could see everyone - from overscheduled students, to busy moms, to myself - using. The goal of this project is to create an application that would fill in these gaps, and provide a simple and effective outlet for the universal need of task-tracking. 
+Currently, few task-tracking tools available on the market provide efficiency, ease-of-use, and consolidation across multiple applications. I seek to remedy this problem and design an ideal application that I could see everyone - from overscheduled students, to busy moms, to myself - using. The goal of this project is to create an application that would fill in these gaps, and provide a simple and effective outlet for the universal need of task-tracking. 
 
 ### competitor analysis
 
-To get a more holistic view of task-trackers, I conducted heuristic evaluations on two digital applications: Notion and Todoist. I chose these programs because they are quite popular and often reccommended, but also because I have personal experience using - and ultimately abandoning - them. By evaluating the two through utilization of the ten usability heuristics, I hoped to narrow down exactly what the applications are lacking. This way, I could dive into finding solutions for these issues and avoid possible problems in the application I was creating. 
+
+
+To get a more holistic view of task-trackers, I conducted heuristic evaluations on two digital applications: Notion and Todoist. I chose these programs because they are quite popular and often recommended, but also because I have personal experience using - and ultimately abandoning - them. By evaluating the two through utilization of the ten usability heuristics, I hoped to narrow down exactly what the applications are lacking. This way, I could dive into finding solutions for these issues and avoid possible problems in the application I was creating. 
 
 From evaluating the two applications, I was able to zero in on some of the issues that had previously led me to personally abandon use. This included overly complicated designs as well as a lack of important features, such as calendar viewing and the ability to transfer & consolidate information across other applications. 
 
@@ -29,7 +31,7 @@ Read more on my user research [here.](https://github.com/oddz/dh150-audrey/tree/
 
 ### user personas 
 
-In order to dwelve deeper into user perspective, I developed several user personas and scenarios. This is crucial in the process of understanding users past surface-level, as it allows us to get a glimpse of their motivations, behavior, and actions. By shifting our perspective into that of a user's, we can also attempt to understand the reasoning behind why they may choose a certain program or desire certain features, allowing us to garner more insights to improve the product.
+In order to delve deeper into user perspective, I developed several user personas and scenarios. This is crucial in the process of understanding users past surface-level, as it allows us to get a glimpse of their motivations, behavior, and actions. By shifting our perspective into that of a user, we can also attempt to understand the reasoning behind why they may choose a certain program or desire certain features, allowing us to garner more insights to improve the product.
 
 Drawing from my user research, I crafted several personas who would benefit from a digital task-tracking application. I sought to include different backgrounds in order to demonstrate different needs and goals, so that the personas would inform a universally beneficial application. 
 
@@ -39,7 +41,7 @@ Read more on my personas [here.](https://github.com/oddz/dh150-audrey/tree/main/
 
 Based on all my user research and evaluations, I ideated three essential features for the application. 
 
-1. A "new task" button, which would allow users to jot down new tasks and seperate them into specific categories. 
+1. A "new task" button, which would allow users to jot down new tasks and separate them into specific categories. 
 2. A "new list" button, which would allow users to itemize information.
 3. A "calendar" button, which would allow users to view their tasks and events in a calendar format. 
 
@@ -51,7 +53,7 @@ View my rough sketch wireframes [here.](https://github.com/oddz/dh150-audrey/tre
 
 Drawing from these features, I sketched out further screen designs and outlined user flows. This step is essential, as ideas can finally be translated into an organized and much more tangible format. I sought to ensure that all the different screens had a logical connection, so that users would easily be able to understand the system. 
 
-I crafted a homescreen to display upcoming tasks, a screen to display all lists, a "new task" screen, a "new list" screen, and a calendar viewing screen.
+I crafted a home screen to display upcoming tasks, a screen to display all lists, a "new task" screen, a "new list" screen, and a calendar viewing screen.
 
 With these screens, I created three possible tasks to test the features. 
 
