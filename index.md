@@ -53,6 +53,8 @@ View my rough sketch wireframes [here.](https://github.com/oddz/dh150-audrey/tre
 
 ### low-fidelity prototype
 
+<img src="https://user-images.githubusercontent.com/57603794/99461476-c0f80180-28e6-11eb-8769-a5dfef35db0d.jpg" width="330" height="450"/> <img src="https://user-images.githubusercontent.com/57603794/99464364-ce17ef00-28ec-11eb-9184-1b0c9a5155b3.jpg" width="330" height="450"/>
+
 Drawing from these features, I sketched out further screen designs and outlined user flows. This step is essential, as ideas can finally be translated into an organized and much more tangible format. I sought to ensure that all the different screens had a logical connection, so that users would easily be able to understand the system. 
 
 I crafted a home screen to display upcoming tasks, a screen to display all lists, a "new task" screen, a "new list" screen, and a calendar viewing screen.
