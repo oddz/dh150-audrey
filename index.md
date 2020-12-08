@@ -11,7 +11,6 @@ Currently, few task-tracking tools available on the market provide efficiency, e
 
 <img src="https://user-images.githubusercontent.com/57603794/95921817-d49fcd80-0d66-11eb-8c14-48398f439118.PNG" width="300" height="450"/> <img src="https://user-images.githubusercontent.com/57603794/95921867-ef724200-0d66-11eb-9288-271948ff4307.PNG" width="300" height="450"/>
 
-
 To get a more holistic view of task-trackers, I conducted heuristic evaluations on two digital applications: Notion and Todoist. I chose these programs because they are quite popular and often recommended, but also because I have personal experience using - and ultimately abandoning - them. By evaluating the two through utilization of the ten usability heuristics, I hoped to narrow down exactly what the applications are lacking. This way, I could dive into finding solutions for these issues and avoid possible problems in the application I was creating. 
 
 From evaluating the two applications, I was able to zero in on some of the issues that had previously led me to personally abandon use. This included overly complicated designs as well as a lack of important features, such as calendar viewing and the ability to transfer & consolidate information across other applications. 
@@ -31,6 +30,8 @@ For my user research, I chose to utilize participatory observation and interview
 Read more on my user research [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment4)
 
 ### user personas 
+
+<img src="https://user-images.githubusercontent.com/57603794/98740953-b7a7eb80-2360-11eb-8fef-e308843a5541.png" width="450" height="300"/> <img src="https://user-images.githubusercontent.com/57603794/98741214-1cfbdc80-2361-11eb-89b3-f80edd2e1e08.png" width="370" height="300"/> 
 
 In order to delve deeper into user perspective, I developed several user personas and scenarios. This is crucial in the process of understanding users past surface-level, as it allows us to get a glimpse of their motivations, behavior, and actions. By shifting our perspective into that of a user, we can also attempt to understand the reasoning behind why they may choose a certain program or desire certain features, allowing us to garner more insights to improve the product.
 
