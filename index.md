@@ -5,17 +5,27 @@
 
 Organization is an essential skill needed to maintain order in life, for everything from tracking mundane daily tasks like grocery shopping, to jotting down assignments, to recording your favorite movies. This neccessity can be aided by task-tracking tools, like planners and digital applications. And with the rise of new and ever-changing technologies, it is no longer required to painstakingly record schedules and task lists with pen and paper. Digital applications makes task-tracking easy, convenient, and satisfying. 
 
-Currently, few task-tracking tools available on the market provide efficiency, ease-of-use, and consolidation across multiple applications. I seek to remedy this problem, and to design an ideal application that I could see everyone - from overscheduled students to busy moms - using. The goal of this project is to create an application that would fill in these gaps, and provide a simple and effective outlet for the universal need of task-tracking. 
+Currently, few task-tracking tools available on the market provide efficiency, ease-of-use, and consolidation across multiple applications. I seek to remedy this problem, and to design an ideal application that I could see everyone - from overscheduled students, to busy moms, to myself - using. The goal of this project is to create an application that would fill in these gaps, and provide a simple and effective outlet for the universal need of task-tracking. 
 
 ### competitor analysis
 
+To get a more holistic view of task-trackers, I conducted heuristic evaluations on two digital applications: Notion and Todoist. I chose these programs because they are quite popular and often reccommended, but also because I have personal experience using - and ultimately abandoning - them. By evaluating them through utilizing the ten usability heuristics, I hoped to narrow down exactly what the two applications are lacking. This way, I could dive into finding solutions for these issues in the application I was creating. 
 
+From evaluating the two applications, I was able to zero in on some of the issues that had previously led me to personally abandon use. This included overly complication design as well as a lack of important features such as calendar viewing and the ability to transfer & consolidation information across other applications. The evaluation aided me in ideating features for my own design, and reminded me to prize simplicity and ease of use. 
+
+Read more on my heuristic evaluations and competitor analysis [here](https://github.com/oddz/dh150-audrey/blob/main/README.md)
 
 ### user research
 
+Read more on my competitor analysis [here](url)
+
 ### personas & scenarios
 
+Read more on my competitor analysis [here](url)
+
 ### wireframe
+
+Read more on my competitor analysis [here](url)
 
 ### low-fidelity prototype
 
