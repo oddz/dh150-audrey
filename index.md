@@ -31,7 +31,7 @@ Read more on my user research [here.](https://github.com/oddz/dh150-audrey/tree/
 
 ### user personas 
 
-<img src="https://user-images.githubusercontent.com/57603794/98740953-b7a7eb80-2360-11eb-8fef-e308843a5541.png" width="450" height="300"/> <img src="https://user-images.githubusercontent.com/57603794/98741214-1cfbdc80-2361-11eb-89b3-f80edd2e1e08.png" width="370" height="300"/> 
+<img src="https://user-images.githubusercontent.com/57603794/98740953-b7a7eb80-2360-11eb-8fef-e308843a5541.png" width="350" height="240"/> <img src="https://user-images.githubusercontent.com/57603794/98741214-1cfbdc80-2361-11eb-89b3-f80edd2e1e08.png" width="250" height="200"/> 
 
 In order to delve deeper into user perspective, I developed several user personas and scenarios. This is crucial in the process of understanding users past surface-level, as it allows us to get a glimpse of their motivations, behavior, and actions. By shifting our perspective into that of a user, we can also attempt to understand the reasoning behind why they may choose a certain program or desire certain features, allowing us to garner more insights to improve the product.
 
