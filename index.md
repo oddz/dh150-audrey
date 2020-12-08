@@ -49,11 +49,29 @@ View my rough sketch wireframes [here.](https://github.com/oddz/dh150-audrey/tre
 
 ### low-fidelity prototype
 
-Drawing from these essential features, I sketched out screen designs and user flows. This step is essential, as ideas can finally be translated into a roughly organized and much more tangible format. I sought to ensure that all the different screens ha
+Drawing from these features, I sketched out further screen designs and outlined user flows. This step is essential, as ideas can finally be translated into an organized and much more tangible format. I sought to ensure that all the different screens had a logical connection, so that users would easily be able to understand the system. 
+
+I crafted a homescreen to display upcoming tasks, a screen to display all lists, a "new task" screen, a "new list" screen, and a calendar viewing screen.
+
+With these screens, I created three possible tasks to test the features. 
+
+1. Input a homework assignment.
+2. Create a grocery list.
+3. View the calendar.
+
+Using these tasks, I conducted a prototype test in order to get a sense of an actual user's flow, in which I garnered some helpful feedback to improve the design. 
 
 Read more on my low-fidelity prototyping [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment6)
 
 ### high-fidelity prototype
+
+Based off of the ideas and feedback from the low-fidelity prototype, I designed a high-fidelity prototype using Figma. This allowed me to visualize the application in a tangible format that imitated the product's functions and features. It also provided a concrete way to test the product with actual users, and to recieve feedback. 
+
+This prototype visualizes the original features and demonstrates possible tasks. 
+
+1. Adding a new task.
+2. Adding a new list.
+3. Viewing tasks in a calendar format. 
 
 Read more on my high-fidelity prototyping [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment7)
 
