@@ -9,6 +9,7 @@ Currently, few task-tracking tools available on the market provide efficiency, e
 
 ### competitor analysis
 
+<img src="https://user-images.githubusercontent.com/57603794/95921817-d49fcd80-0d66-11eb-8c14-48398f439118.PNG" width="300" height="450"/> <img src="https://user-images.githubusercontent.com/57603794/95921867-ef724200-0d66-11eb-9288-271948ff4307.PNG" width="300" height="450"/>
 
 
 To get a more holistic view of task-trackers, I conducted heuristic evaluations on two digital applications: Notion and Todoist. I chose these programs because they are quite popular and often recommended, but also because I have personal experience using - and ultimately abandoning - them. By evaluating the two through utilization of the ten usability heuristics, I hoped to narrow down exactly what the applications are lacking. This way, I could dive into finding solutions for these issues and avoid possible problems in the application I was creating. 
