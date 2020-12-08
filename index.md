@@ -11,15 +11,21 @@ Currently, few task-tracking tools available on the market provide efficiency, e
 
 To get a more holistic view of task-trackers, I conducted heuristic evaluations on two digital applications: Notion and Todoist. I chose these programs because they are quite popular and often reccommended, but also because I have personal experience using - and ultimately abandoning - them. By evaluating the two through utilization of the ten usability heuristics, I hoped to narrow down exactly what the applications are lacking. This way, I could dive into finding solutions for these issues and avoid possible problems in the application I was creating. 
 
-From evaluating the two applications, I was able to zero in on some of the issues that had previously led me to personally abandon use. This included overly complicated designs as well as a lack of important features, such as calendar viewing and the ability to transfer & consolidate information across other applications. The evaluation aided me in ideating features for my own design, and reminded me to prize simplicity and ease of use. 
+From evaluating the two applications, I was able to zero in on some of the issues that had previously led me to personally abandon use. This included overly complicated designs as well as a lack of important features, such as calendar viewing and the ability to transfer & consolidate information across other applications. 
 
 Read more on my competitor analysis and heuristic evaluations [here.](https://github.com/oddz/dh150-audrey/blob/main/README.md)
 
+Next, I conducted usability testing on two participants and guided them through completing several tasks on Notion, arguably one of the most popular digital organizers on the market. From the tests, I found that users were intimidated by the application interface, and expressed difficulty utilizing some of the functions. The tests aided me in ideating features for my own design, and reminded me to prize simplicity and ease of use. 
+
+Read more on and watch my contextual inquiry [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment2)
+
 ### user research
 
-Guided by insights 
+After conducting the competitor analysis and usability tests, I had a lot of ideas on how to improve existing programs. Next, I sought to learn more about what users would expect when utilizing general task-tracking applications. I wanted to gain insight on how potential users currently deal with organization, what they find to be missing from their routine, and what they would want and need if they were to make the switch to a new digital application. Additionally, I was curious to see if their desired features matched up with my own. 
 
-Read more on my user research and watch my contextual inquiry - with two participants - [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment4)
+For my user research, I chose to utilize participatory observation and interviews. I interviewed a friend, whom I personally know to always be balancing a packed schedule. In addition to general inquiries, I asked her to walk me through her task-tracking process, and to discuss some of the methods/programs that she currently uses. From the conversation, I was able to glean more information about a typical user's needs and desires, which I used to inform my application ideation and features.
+
+Read more on my user research [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment4)
 
 ### personas & scenarios
 
