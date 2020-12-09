@@ -85,4 +85,4 @@ Read more on my high-fidelity prototyping [here.](https://github.com/oddz/dh150-
 
 ### _pitch video_
 
-EMBED HERE
+Currently processing in Youtube!
