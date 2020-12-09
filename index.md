@@ -81,7 +81,7 @@ This prototype visualizes the original features and demonstrates possible tasks.
 
 Read more on my high-fidelity prototyping [here.](https://github.com/oddz/dh150-audrey/tree/main/assignment7)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fym7veaY6qmUCSpFVIXEYsY%2FDH150%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fym7veaY6qmUCSpFVIXEYsY%2FDH150%3Fnode-id%3D34%253A41" allowfullscreen></iframe>
 
 ### _pitch video_
 
